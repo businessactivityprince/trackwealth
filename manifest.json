@@ -1,6 +1,6 @@
 {
   "name": "Wealth Tracker",
-  "short_name": "Wealth",
+  "short_name": "Wealth Tracker",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#121212",
@@ -19,3 +19,4 @@
     }
   ]
 }
+
